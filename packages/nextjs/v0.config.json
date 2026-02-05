@@ -1,0 +1,9 @@
+{
+  "enableDesignMode": true,
+  "framework": "next",
+  "packageManager": "bun",
+  "port": 3000,
+  "customComponents": {
+    "dirs": ["./components"]
+  }
+}
